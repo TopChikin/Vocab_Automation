@@ -30,7 +30,7 @@ name = "Jonathan Le"
 
 #Authenticates wordNik
 apiUrl = 'http://api.wordnik.com/v4'
-apiKey = 'ed7da28872250fb9c000c082c1305d06e3e1ea0334e4665ab'
+apiKey = ''
 client = swagger.ApiClient(apiKey, apiUrl)
 
 #Used for counting and writing definition numbers
